@@ -21,6 +21,8 @@ Also found in this repository are:
 
 - My final dissertation paper to give context to the code given
 
+- The ground_truth script to annotate which genes were indeed differentially expressed
+
 - The script used to calculate all the additional statistic metrics: TP, TN, FP, FN, FDR, TPR, F1 
   and Precision
 
